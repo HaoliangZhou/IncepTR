@@ -7,7 +7,7 @@ Haoliang Zhou, Shucheng Huang, and Xuqiao Xu<br>
 xxx
 
 <p align="center">
-<img src="https://github.com/HaoliangZhou/IncepTR/blob/master/inceptr.pdf" width=100% height=100% 
+<img src="https://github.com/HaoliangZhou/IncepTR/blob/master/fig.png" width=100% height=100% 
 class="center">
 </p>
 
