@@ -1,6 +1,6 @@
 # IncepTR
 
-Code of the [paper](https://github.com/HaoliangZhou/IncepTR) "IncepTR: Micro-Expression Recognition Integrating Inception-CBAM and Vision Transformer"<br>
+### IncepTR: Micro-Expression Recognition Integrating Inception-CBAM and Vision Transformer ([Paper](https://github.com/HaoliangZhou/IncepTR))<br>
 Haoliang Zhou, Shucheng Huang, and Xuqiao Xu<br> 
 
 ### Abstract <br>
