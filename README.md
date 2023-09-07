@@ -51,7 +51,13 @@ Represents ME samples divided by MEGC2019, as described in [here](https://facial
 ### Citation <br>
 If you find this repo useful for your research, please consider citing the paper
 ```
-@Article
+@article{zhou2023inceptr,
+  title={Inceptr: micro-expression recognition integrating inception-CBAM and vision transformer},
+  author={Zhou, Haoliang and Huang, Shucheng and Xu, Yuqiao},
+  journal={Multimedia Systems},
+  pages={1--14},
+  year={2023},
+  publisher={Springer}
 }
 ```
 
