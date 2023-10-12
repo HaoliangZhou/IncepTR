@@ -1,7 +1,7 @@
 # IncepTR
 
 ### IncepTR: Micro-Expression Recognition Integrating Inception-CBAM and Vision Transformer ([Paper](https://link.springer.com/article/10.1007/s00530-023-01164-0))<br>
-Haoliang Zhou, Shucheng Huang, and Xuqiao Xu<br> 
+*Haoliang Zhou, Shucheng Huang, Xuqiao Xu* <br> 
 
 ##
 
