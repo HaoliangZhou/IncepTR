@@ -33,7 +33,7 @@ data/
 ```
 In this example, the first column is the path of the optical flow image for a particular ME sample, the second column is the label (0-2 for three emotions), and the third column is the database type (1-3 for three databases).
 
-2. There are 68 raws in _subName.txt_: 
+2. There are 68 raws in _[subName.txt]([https://github.com/HaoliangZhou/Dual-ATME#data-preparation](https://github.com/HaoliangZhou/Dual-ATME/blob/master/data/MEGC2019/v_cde_flow/subName.txt))_: 
 ```
 006
 ...
